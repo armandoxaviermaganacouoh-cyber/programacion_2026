@@ -1,0 +1,9 @@
+1.- Define una clase: Es un tipo de dato que esta definido por el usuario se agrupa datos (atributos) y funciona con métodos
+
+2.- Define encapsulamiento: El encapsulamiento puede ser público y privado 
+Privado: es un pilar del programa ya que hace que pueda ocultar los detalles y tiene una interfaz mas controlada sobre ellos.
+Publica: puede ser accedidos por cualquier persona y desde cualquier parte del programa
+
+3.- Define constructor: se inicia al momento de inicializar el programa, cuando se crea un objeto a partir de una clase, lo que simplifica el proceso de iniciar y asegura que el objeto este listo para usarse desde el principio 
+
+4.- Diseñe una clase celular que contenga 5 atributos y 3 métodos con él .h y con él .cpp :
